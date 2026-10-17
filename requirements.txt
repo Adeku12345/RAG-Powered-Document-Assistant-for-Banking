@@ -1,0 +1,9 @@
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-anthropic
+sentence-transformers
+pymupdf4llm
+python-dotenv
+streamlit
